@@ -24,4 +24,11 @@ When organizing a hackathon, you have to consider many aspects ranging from the 
 
 
 ## Building your Hackathon with GitHub
-
+Here are some bootstraped customizable ready to deploy solutions for building your next hackathon with GitHub.
+- [Hackathon Website Template](https://github.com/Student-Hackathons/landing-page) - A clean, customise-able and mobile responsive portfolio template for your upcoming hackathon!
+- [Hackathon Platform](https://github.com/Student-Hackathons/hackathon-platform) - Few Ideas on how to use GitHub tools for creating a Platform for Hackathon - i.e. Project Submission Template etc.
+- [Discord Moderation Bot](https://github.com/Student-Hackathons/discord-moderation-bot) - A Discord Bot that support most of the features to moderate participant interaction on Discord.
+- [Organisers Board](https://github.com/Student-Hackathons/organizers-board) -A board where all the organizers have access to the details of the hackers, organizers and mentors.
+- [Mail Bot](https://github.com/Student-Hackathons/mail-bot) - A bot to send reminders and notifications to hackers about announcements.
+- [Virtual Event Logistics Toolkit](https://github.com/Student-Hackathons/virtual-event-logistics-toolkit) - The Virtual Event Kit gives students the resources to make running online events simple and accessible.
+- [Some Additional Resources](https://github.com/Student-Hackathons/additional-resources) - Some Resources Included in [Github Student Developer Pack](https://education.github.com/pack/offers) that will help you in setting up your next hackathon
