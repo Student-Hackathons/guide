@@ -1,5 +1,4 @@
-# Student Hackathons 👨‍💻👩‍💻🏅�
-
+# Student Hackathons 👨‍💻👩‍💻🏅
 
 This repository contains Resources to help you plan, organise, and execute your hackathons using GitHub Tools. One can leverage these tools when you are planning your next hackathon.
 
